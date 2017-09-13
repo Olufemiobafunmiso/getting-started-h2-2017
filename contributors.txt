@@ -63,7 +63,7 @@ j(14) Alaba Mustapha
 (61) Kebe Eyong (slack:kebeeyong, github:kebeeyong)
 (62) Tolu Faith (slack: imani, github: ToluImani
 (63) Lasisi Tosin (slack: ridwan, github: ridwan099) 
-(64) = "Kevin Afoma Onwuagbanusi " Kentalogues "  "@"
+(64)"Kevin Afoma Onwuagbanusi " Kentalogues "  "@"
 (65) Abu-Ekpeshie Peter (slack: @peteabu, Github: @peteabu)
 (66) Keresifon Ekpo(slack:@handsome9ice, github: handsome9ice)
 (67) Okorie Augustine Ugochukwu (slack: auztin, github: auztincodes)
@@ -75,3 +75,4 @@ j(14) Alaba Mustapha
 (73) Joda Opemipo, opsijay, Zaida-3dO (74)Saheed Oladele (slack: kayrode1, github:suretrust) (75)Nwabuokei Nnamdi(slack:nnamdi16, github:nnamdi16)  (76) Nwabuokei Ifeanyichukwu (slack: Ifylala, github:Ifylala)
 (77) Esu Samuel Asuquo (Slack: samuelesu, Github:samuelesu)
 (78) Edoho Mkpouto (slack: point4fame, Github: @point4fame)
+(79) Obafunmiso Olufemi (slack : @olufemiobafunmiso, Github:@olufemiobafunmiso)
